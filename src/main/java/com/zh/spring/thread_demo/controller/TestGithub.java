@@ -5,6 +5,7 @@ public class TestGithub {
     public void test(){
         System.out.println("---");
         System.out.print("hello");
+        System.out.println("123456");
     }
 
 }
